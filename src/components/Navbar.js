@@ -86,7 +86,7 @@ export default function Navbar() {
 function NavLink({ label }) {
     return (
         <a
-            href="#"
+            href="/"
             className="text-gray-700 hover:text-indigo-600 font-medium transition"
         >
             {label}
@@ -97,7 +97,7 @@ function NavLink({ label }) {
 function MobileNavLink({ label }) {
     return (
         <a
-            href="#"
+            href="/"
             className="text-gray-800 hover:text-indigo-600 block transition"
         >
             {label}

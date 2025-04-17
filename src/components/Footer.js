@@ -12,18 +12,18 @@ export default function Footer() {
                     </div>
 
                     <ul className="flex flex-col items-center gap-2 lg:flex-row lg:gap-8">
-                        <li><a href="#" className="hover:text-indigo-600">HELP CENTER</a></li>
-                        <li><a href="#" className="hover:text-indigo-600">FAQ</a></li>
-                        <li><a href="#" className="hover:text-indigo-600">TERMS & PRIVACY</a></li>
+                        <li><a href="/" className="hover:text-indigo-600">HELP CENTER</a></li>
+                        <li><a href="/" className="hover:text-indigo-600">FAQ</a></li>
+                        <li><a href="/" className="hover:text-indigo-600">TERMS & PRIVACY</a></li>
                     </ul>
                 </div>
                 <div className="flex flex-col items-center gap-4 lg:flex-row lg:justify-between">
                     <p className="text-xs text-gray-400">&copy;2021 Estatery. All rights reserved</p>
                     <div className="flex gap-5 text-gray-400">
-                        <a href="#" className="hover:text-indigo-600"><FaFacebookF size={16} /></a>
-                        <a href="#" className="hover:text-indigo-600"><FaInstagram size={16} /></a>
-                        <a href="#" className="hover:text-indigo-600"><FaTwitter size={16} /></a>
-                        <a href="#" className="hover:text-indigo-600"><FaLinkedinIn size={16} /></a>
+                        <a href="/" className="hover:text-indigo-600"><FaFacebookF size={16} /></a>
+                        <a href="/" className="hover:text-indigo-600"><FaInstagram size={16} /></a>
+                        <a href="/" className="hover:text-indigo-600"><FaTwitter size={16} /></a>
+                        <a href="/" className="hover:text-indigo-600"><FaLinkedinIn size={16} /></a>
                     </div>
                 </div>
             </div>
